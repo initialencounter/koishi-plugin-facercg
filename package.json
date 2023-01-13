@@ -1,0 +1,28 @@
+{
+  "name": "koishi-plugin-facercg",
+  "description": "颜值评分,[百度人脸识别API](https://console.bce.baidu.com/ai/#/ai/face/overview/index)",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirrorCY/rryth"
+  },
+  "bugs": {
+    "url": "https://github.com/MirrorCY/rryth/issues"
+  },
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.10.10"
+  }
+}
