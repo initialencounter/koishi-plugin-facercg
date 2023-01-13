@@ -8,14 +8,16 @@
     "lib",
     "dist"
   ],
+  "author": "initencounter <2911583893@qq.com>"
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MirrorCY/rryth"
+    "url": "git+https://github.com/initialencounter/koishi-plugin-facercg"
   },
   "bugs": {
-    "url": "https://github.com/MirrorCY/rryth/issues"
+    "url": "https://github.com/initialencounter/koishi-plugin-facercg/issues"
   },
+  "homepage": "https://github.com/initialencounter/koishi-plugin-facercg"
   "scripts": {},
   "keywords": [
     "chatbot",
