@@ -22,7 +22,8 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "Face-recognition"
   ],
   "peerDependencies": {
     "koishi": "^4.10.10"
